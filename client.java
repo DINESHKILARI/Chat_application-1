@@ -217,7 +217,7 @@ public class MultiChatClient extends Frame implements ActionListener,KeyListener
 
 
 
-
+//Main method implementation 
   public static void main(String s[])
     {
       MultiChatClient mcc= new MultiChatClient("Messenger");
